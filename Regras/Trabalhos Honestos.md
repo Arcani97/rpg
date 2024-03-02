@@ -37,14 +37,14 @@ O trabalho raramente é preenchido com complicações suficientes para alterar s
 
 ### Complicações de trabalho
 
-| d6  | Complicação                                                                                                                                                 |
+| d8  | Complicação                                                                                                                                                 |
 | --- |:----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Você quebra uma ferramenta cara que vale 1d4 meses de trabalho. Seu empregador deseja contratá-lo.                                                          |
-| 2*  | Um cliente difícil ou uma briga com um colega de trabalho reduz o estilo de vida que você ganha em uma categoria.                                           |
-| 3*  | As dificuldades financeiras do seu empregador resultam no seu não pagamento.                                                                                |
-| 4*  | Um cliente ou colega de trabalho ligado a uma família importante da cidade não gosta de você.                                                               |
+| 2   | Um cliente difícil ou uma briga com um colega de trabalho reduz o estilo de vida que você ganha em uma categoria.                                           |
+| 3   | As dificuldades financeiras do seu empregador resultam no seu não pagamento.                                                                                |
+| 4   | Um cliente ou colega de trabalho ligado a uma família importante da cidade não gosta de você.                                                               |
 | 5   | Seu empregador está envolvido em um culto obscuro ou em uma empresa criminosa.                                                                              |
-| 6*  | A rede criminosa local tem como alvo o seu negócio para uma extorsão. Cabe ao DM se você for avisado com antecedência ou não.                               |
-| 7*  | Você ganha uma reputação de preguiça (injusta ou não, você escolhe), dando-lhe desvantagem em testes feitos para esta atividade de inatividade por 30 dias. |
-| 8*  | Seu empregador acha você sexualmente atraente. Se ele é do gênero certo ou errado, depende do DM. Mas é difícil ignorar seus avanços.                       |
+| 6   | A rede criminosa local tem como alvo o seu negócio para uma extorsão. Cabe ao DM se você for avisado com antecedência ou não.                               |
+| 7   | Você ganha uma reputação de preguiça (injusta ou não, você escolhe), dando-lhe desvantagem em testes feitos para esta atividade de inatividade por 30 dias. |
+| 8   | Seu empregador acha você sexualmente atraente. Se ele é do gênero certo ou errado, depende do DM. Mas é difícil ignorar seus avanços.                       |
 
