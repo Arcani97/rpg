@@ -27,6 +27,7 @@ Um item terá um tamanho e dependendo desse tamanho irá ocupar um espaço difer
 | 301 - 400       | 3              |
 | ...             | ...            |
 
+**⠀**
 ### Conversão de Peso para Espaços
 Para facilitar a conversão, pode-se usar a seguinte tabela, porem o mestre é quem tem a palavra final.
 
@@ -51,6 +52,7 @@ Para facilitar a conversão, pode-se usar a seguinte tabela, porem o mestre é q
 >
 > Ou seja, um item que por exemplo, pese 70 kg ocupará 45 Espaços (15x3)
 
+**⠀**
 
 ### Espaços por Personagem
 #### Espaços Padrão (Específicos)
@@ -80,4 +82,27 @@ Além dos espaços padrão, todo personagem ganha um certo numero de espaços de
 | 8       | 135     |
 | 9       | 150     |
 | 10      | 165     |
+
+**⠀**
+
+### Bens de Comercio
+#### Líquidos
+
+Líquidos ocupam o espaço do recipiente em que está guardado.
+
+#### Tecidos
+
+Tecidos são vendidos em rolos de 2,5m de largura e até 50m de comprimento. Cada rolo ocupa um espaço grande independente do comprimento do tecido nele.
+
+#### Metais, Grãos, Temperos e Especiarias
+
+Esses bens de comercio ocupam um espaço para cada 2 Kg conforme a tabela.
+
+| Peso Total | Espaço Ocupado |
+| ---------- | -------------- |
+| 1 - 2 Kg   | 1              |
+| 3 - 4 Kg   | 2              |
+| 5 - 6 Kg   | 3              |
+| 7 - 8 Kg   | 4              |
+| ...        | ...            |
 

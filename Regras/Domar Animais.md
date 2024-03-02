@@ -1,4 +1,4 @@
-# Domar Animais
+# [[Domar Animais]]
 
 Se você tiver proficiência com a perícia Adestrar Animais, você pode tentar domar uma criatura com valor de Inteligência igual ou inferior a 5. Criaturas com Inteligência superior não podem ser domadas. Além disso, criaturas com Nível de Desafio maior que o nível do personagem não podem ser domesticadas, a menos que sejam amigáveis com o personagem e se sujeitem voluntariamente a uma coexistência mútua. Se a qualquer momento eles se tornassem hostis, uma criatura mais forte sairia ou se voltaria contra o personagem.
 
@@ -8,24 +8,26 @@ Reduza o tempo em 25% se a criatura for bondosa e outros 25% se a criatura for l
 
 Depois de domar uma criatura, você pode passar um tempo de inatividade com ela para ensiná-la novos truques ou comandos importantes que ela seguirá de bom grado ao se juntar ao personagem em suas viagens.
 
+**⠀**
+
 ### Custos da Doma
 
 Para cada dia durante a domesticação de uma criatura, você deve fornecer a ela comida e água adequadas, em volume relacionado ao tamanho da criatura.
 
 O preço da ração é definido pelo DM, mas abaixo tem uma referência para animais comuns.
 
-|Tamanho|Comida (Kg)|Água (L)|
-|---|---|---|
-|Minúsculo|0.1|1|
-|Pequeno|0.5|4|
-|Médio|1|4|
-|Grande|2|16|
-|Gigante|8|48|
-|Imenso|32|144|
+|  Tamanho  | Comida (Kg) | Água (L) |
+|:---------:| ----------- | -------- |
+| Minúsculo | 0.1         | 1        |
+|  Pequeno  | 0.5         | 4        |
+|   Médio   | 1           | 4        |
+|  Grande   | 2           | 16       |
+|  Gigante  | 8           | 48       |
+|  Imenso   | 32          | 144      |
 
-|     |
-| --- |
-|  Valor das Rações   |
+|                  |
+|:----------------:|
+| Valor das Rações |
 
 | Alimento (0.5Kg)   | Preço |
 | ------------------ | ----- |
@@ -37,6 +39,21 @@ O preço da ração é definido pelo DM, mas abaixo tem uma referência para ani
 
 O personagem também deve cuidar da criatura, mantendo-a em algum lugar seguro. Quanto maior a criatura é ou se torna, mais caro é fornecer-lhe abrigo
 
+### Alojamento para Animais
+
+|  Tamanho  | Preço/dia |
+|:---------:|:---------:|
+| Minúsculo |   1 PP    |
+|  Pequeno  |   2 PP    |
+|   Médio   |   1 PO    |
+|  Grande   |   2 PO    |
+|  Gigante  |   4 PO    |
+|  Imenso   |   10 PO   |
+
+Uma vez que uma criatura tenha sido domesticada, ela se comportará pacificamente com o personagem e com as pessoas não agressivas ao seu redor, seguirá em sua área geral e, principalmente, se comportará tanto quanto sua personalidade permitir.
+
+**⠀**
+
 ### Treinamento
 
 Depois de domar uma criatura, ela começa com um número de truques aprendidos igual ao seu modificador de Inteligência mais 5. Por exemplo, um cachorro com um modificador de Inteligência de -3 começa com apenas 2 truques após ser domado. Os truques ficam a critério do jogador, mas só podem ser truques simples. No entanto, o personagem pode gastar tempo, esforço e despesas para ensinar a seu novo animal de estimação novos truques simples ou complexos.
@@ -44,6 +61,8 @@ Depois de domar uma criatura, ela começa com um número de truques aprendidos i
 Treinar uma criatura em um novo truque é muito mais simples e barato do que domesticá-la em primeiro lugar. O personagem precisa pagar a conta de comida e abrigo da criatura por um número de dias igual a 10 menos seu modificador de Inteligência, multiplicado por 5. Por exemplo, um cachorro levaria 65 dias para ensinar um novo truque já que seu modificador de Inteligência é -3.
 
 Uma criatura pode conhecer um número total de truques igual ao seu valor de Inteligência (não modificador).
+
+**⠀**
 
 ### Truques
 
@@ -67,17 +86,18 @@ Uma criatura pode conhecer um número total de truques igual ao seu valor de Int
 
 - **Caçar (Complexo).** Criaturas predatórias, como falcões ou cães, podem ser ensinadas a caçar por conta própria e trazer a presa de volta para você, em vez de comê-la por conta própria. Isso é o mesmo que a criatura forrageando independentemente de você.
 
+**⠀**
 
-#### Complicações
+### Complicações
 Há uma chance de 5% de que seu animal de estimação se meta em uma confusão e envolva você junto com ele.
 
-| d8  | Complicação                                                                                                                                 |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Você recebe uma oferta para vender seu animal de estimação. O comprador é uma pessoa de poder e não aceita não como resposta.               |
-| 2   | Seu animal de estimação se assustou e machucou uma pessoa desagradável. Ele agora está exigindo sua morte ou expulsá-lo.                    |
-| 3   | Seu animal de estimação foi atacado por outro e ficou ferido. Ele não pode treinar até ser curado. Você tem uma rixa com seu dono.          |
-| 4   | Seu animal de estimação ficou confuso e com medo de mulheres e crianças. As pessoas estão cautelosas com você agora.                        |
-| 5   | Seu animal de estimação descobriu um cadáver. Você não conhece a pessoa, mas a cena é horrível.                                             |
-| 6   | Os sentidos do seu animal de estimação o alertam sobre um crime próximo. Você tem a opção de se envolver ou não.                            |
+| d8  |                                                                 Complicação                                                                 |
+| --- |:-------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1   |        Você recebe uma oferta para vender seu animal de estimação. O comprador é uma pessoa de poder e não aceita não como resposta.        |
+| 2   |          Seu animal de estimação se assustou e machucou uma pessoa desagradável. Ele agora está exigindo sua morte ou expulsá-lo.           |
+| 3   |     Seu animal de estimação foi atacado por outro e ficou ferido. Ele não pode treinar até ser curado. Você tem uma rixa com seu dono.      |
+| 4   |            Seu animal de estimação ficou confuso e com medo de mulheres e crianças. As pessoas estão cautelosas com você agora.             |
+| 5   |                       Seu animal de estimação descobriu um cadáver. Você não conhece a pessoa, mas a cena é horrível.                       |
+| 6   |              Os sentidos do seu animal de estimação o alertam sobre um crime próximo. Você tem a opção de se envolver ou não.               |
 | 7   | Os sentidos do seu animal de estimação encontraram um item perdido ou uma pequena fortuna. Você pode mantê-lo ou rastrear seu proprietário. |
-| 8   | Seu animal de estimação encontrou uma companheira e sua lealdade a você e seus instintos primitivos estão em conflito.                      |
+| 8   |           Seu animal de estimação encontrou uma companheira e sua lealdade a você e seus instintos primitivos estão em conflito.            |

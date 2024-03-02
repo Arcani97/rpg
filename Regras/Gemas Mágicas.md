@@ -2,9 +2,13 @@
 
 Em suas aventuras e viagens, é possível encontrar gemas especiais que foram imbuídas de magia que podem ser usadas para adicionar benefícios especiais às suas armaduras e armas. As gemas são divididas em níveis que determinam o poder da gema, e você não pode usar uma gema com um nível superior ao nível do slot.
 
+**⠀**
+
 ### Noções Básicas de Ranhuras
 
 Você pode adicionar um ranhura a qualquer armadura, escudo ou arma e precisa sintonizar o item com a gema para usar suas propriedades. Você pode trocar uma gema de um item, mas você precisa gastar um descanso curto para sintonizar o novo item com a gema novamente.
+
+**⠀**
 
 ### Adicionando um Ranhura
 
@@ -20,6 +24,8 @@ Ao adicionar uma ranhura a um objeto, você precisa gastar o custo da ranhura mo
 Se você falhar no teste, você deve terminar um descanso longo para fazer o teste novamente, e se você falhar no teste por 5 ou mais, a ranhura é danificada e o objeto não pode ser encaixado novamente.
 
 Você pode contratar um artesão para fazer a ranhura, mas nesse caso o custo da ranhura será dobrado (isso inclui os custos de contratação).
+
+**⠀**
 
 ### Propriedades das Gemas
 
@@ -47,17 +53,17 @@ Cada gema tem algumas características especiais dependendo do objeto. Para arma
 
 Na tabela a seguir você pode ver o tipo de elemento, que se aplica ao dano causado pelas armas e às resistências das armaduras.
 
-| Cor      | Tipo de Dano |
-| -------- | ------------ |
-| Marrom   | Ácido        |
-| Azul     | Frio         |
-| Vermelho | Fogo         |
-| Branco   | Força        |
-| Amarelo  | Relâmpago    |
-| Preto    | Necrótico    |
-| Verde    | Veneno       |
-| Roxo     | Psíquico     |
-| Laranja  | Radiante     |
-| Cinza    | Trovão       |
+| Cor      | Elemento  | 
+| -------- | --------- |
+| Marrom   | Ácido     |
+| Azul     | Frio      |
+| Vermelho | Fogo      |
+| Branco   | Força     |
+| Amarelo  | Relâmpago |
+| Preto    | Necrótico |
+| Verde    | Veneno    |
+| Roxo     | Psíquico  |
+| Laranja  | Radiante  |
+| Cinza    | Trovão    |
 
 Por exemplo, uma gema preta de 1º nível encaixada em uma arma adicionará 1d4 de dano necrótico extra, e a mesma gema encaixada em uma armadura ou escudo reduzirá o dano necrótico que você recebe em 3.

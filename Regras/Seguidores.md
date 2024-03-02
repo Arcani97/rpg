@@ -4,6 +4,8 @@ Existem três tipos de seguidores; Marcial, Mercantil e Híbrido. Além de seu t
 
 Seguidores diferentes se destacam em tarefas diferentes. Alguns são melhores em se proteger enquanto fazem recados. Outros podem ter uma língua de prata para barganhar, mas têm dificuldade em lidar com o combate. Alguns podem ser mestres de um ofício ou aventureiros por conta própria que podem fornecer pequenos benefícios ao jogador que os comanda.
 
+**⠀**
+
 ### Estatísticas do Seguidor
 
 #### Resistência (RES)
@@ -26,6 +28,8 @@ A pontuação Social de um seguidor indica o quão bom ele é em completar taref
 #### Velocidade (VLC)
 
 A velocidade de um seguidor indica a rapidez com que ele pode concluir uma tarefa. A maioria das tarefas leva uma semana para ser concluída e a Velocidade de um seguidor reduz esse tempo em um número igual de dias. A maioria dos seguidores começa com uma velocidade de 3. Alguns seguidores podem ter talentos ou equipamentos que podem aumentar esse valor, mas nunca pode passar de 6. Portanto, as tarefas levam no mínimo 1 dia para serem concluídas.
+
+**⠀**
 
 ### Ranks e Estatísticas Básicas
 
@@ -62,6 +66,8 @@ O Sistema de Seguidores foi projetado com apenas cinco marcos principais implant
 | 3°   | 12  | 3   | 2   | 4   |               |
 | 4°   | 14  | 4   | 3   | 4   |               |
 | 5°   | 16  | 4   | 4   | 4   | +1 CBT ou SOC |
+
+**⠀**
 
 ### Evolução do Seguidor
 
@@ -103,6 +109,8 @@ Cada tipo de seguidor ganha bônus estáticos ao atingir uma nova classificaçã
 | 4°   | +2   | +1   | +1   | +0   | +1 Talento                 |
 | 5°   | +2   | +0   | +1   | +0   | +1 CBT ou SOC E +1 Talento |
 
+**⠀**
+
 ### Talentos Padrão
 
 #### Básico
@@ -128,6 +136,8 @@ Cada tipo de seguidor ganha bônus estáticos ao atingir uma nova classificaçã
 **Aparar:** Adicione +1d4 a todos os testes de combate
 
 **Amado:** Adicione +1d4 a todos os testes Sociais
+
+**⠀**
 
 ### Equipamento
 
