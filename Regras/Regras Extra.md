@@ -95,6 +95,8 @@ Testes de Intimidação podem usar o modificador de força no lugar do de carism
 ### Ataque Extra Preparado
 Ataques preparados permitem o uso de um ataque extra.
 
+**⠀**
+
 ## Ações de Combate
 
 ### Desviar e Aparar
