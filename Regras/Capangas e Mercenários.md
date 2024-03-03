@@ -2,6 +2,8 @@
 
 Quando os aventureiros acumulam riqueza suficiente, eles podem contratar outros para fazer a maioria das tarefas para eles - como cuidar de seus negócios ou propriedades, construir um castelo para eles ou reunir um exército mercenário. Esta seção melhora as regras simples do Livro do Jogador para contratação de NPCs. Introduz preços realistas para a contratação de trabalhadores não qualificados e qualificados, para negociação de salários, mercenários, criação ou recolha de recompensas.
 
+**⠀**
+
 ## Trabalhadores não qualificados
 
 O custo padrão para contratar um trabalhador comum é de 2 moedas de prata por dia. Na economia de fantasia medieval de Dungeons & Dragons, 2 PP/dia é considerado um “salário mínimo”: o suficiente para pagar as despesas básicas de vida e nada mais. Essa renda é suficiente para viver um estilo de vida pobre.
@@ -9,6 +11,8 @@ O custo padrão para contratar um trabalhador comum é de 2 moedas de prata por 
 Entretanto, em bairros particularmente empobrecidos, os personagens podem contratar trabalhadores não qualificados por apenas 1 PP/dia. Personagens de boa tendência devem evitar fazê-lo, a menos que seja absolutamente necessário, já que tais trabalhadores só podem viver um estilo de vida miserável ou pior com esse pagamento.
 
 Da mesma forma, em áreas sem uma população significativa de pobres desempregados, o trabalho não qualificado pode ter um preço pedido mais elevado. Este preço raramente excede 5 PP/dia. Em áreas de pessoas ricas e exclusivamente qualificadas (como uma faculdade remota de bruxos), os jogadores podem ter apenas trabalhadores qualificados disponíveis para contratar, e essa mão de obra pode ser extremamente cara ou completamente indisponível.
+
+**⠀**
 
 ## Trabalhadores Qualificados
 
@@ -50,6 +54,8 @@ A disponibilidade de NPCs qualificados depende da população de um assentamento
 |     +26     |  240 PO   |
 |     +27     |  248 PO   |
 |     +28     |  256 PO   |
+
+**⠀**
 
 ## Contratação de Mercenários
 
@@ -101,9 +107,13 @@ Para NPCs de ND 2 e superior, o preço para contratar esse NPC é igual ao seu N
 
 Nem todo NPC está disponível como mercenário; só porque os jogadores oferecem a alguém a quantidade apropriada de ouro não significa que eles abandonarão seu trabalho e o seguirão até uma masmorra. NPCs com uma opinião elevada sobre si mesmos podem exigir de 20% a 100% extras ou até mais do que o preço normal, e alguns podem simplesmente recusar.
 
+**⠀**
+
 ### Termos Mínimos de Serviço
 
 Muitos NPCs mais poderosos exigem um período mínimo de serviço. Eles valorizam o trabalho estável em vez de trabalhos únicos e podem cobrar até o dobro de sua taxa normal (ou recusar-se abertamente a trabalhar para eles) se os PCs os contratarem por menos do que esse prazo mínimo. Normalmente, este prazo é igual ao ND do NPC, embora indivíduos excepcionais possam exigir prazos mais longos ou mais curtos. Embora possa fazer sentido no personagem, esta mecânica tem como objetivo evitar que os jogadores contratem indivíduos excepcionalmente poderosos para masmorras de um dia e coisas assim.
+
+**⠀**
 
 ### Modificadores para trabalhos perigosos
 
@@ -112,6 +122,8 @@ Nem todo trabalho é igual. Os custos básicos destinam-se a manter o NPC sob c
 Esse tipo de coisa não é verdade para a exploração de masmorras. As masmorras são lugares extremamente letais e perigosos, onde um mercenário pode esperar muito mais combates do que o pior dia de guerra. Os NPCs podem esperar de 1,25 a 4 vezes mais pagamento por uma expedição tão perigosa, com a média sendo 2 vezes maior. Os soldados especializados na guerra tradicional podem recusar abertamente. Isto se aplica a todos os trabalhos perigosos; rumores de magos de batalha mortais no lado oposto de uma guerra podem aumentar os preços, já que uma única bola de fogo pode matar duas dúzias de homens num instante. Como mestre, use seu critério ao modificar os preços.
 
 Por outro lado, um trabalho particularmente seguro pode exigir apenas 0,5 a 0,75 do custo normal. Por exemplo, se os jogadores estão apenas contratando guardas para sua fortaleza, ou para a guarda da cidade que eles presidem, esses guardas podem esperar pouca ou nenhuma luta por suas carreiras. Esses tipos de mercenários, no entanto, esperam um bônus se a luta começar.
+
+**⠀**
 
 ### Monstros e Magos
 

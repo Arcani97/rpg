@@ -48,9 +48,13 @@ Para criaturas de ND 2 e superior, a recompensa por essa criatura é igual ao se
 
 Esta tabela deve ser usada apenas para criaturas que alguma autoridade deseja ver mortas. Os jogadores não deveriam poder sair para a floresta, matar algumas doninhas e trazê-las de volta para a cidade e vendê-las por algumas moedas de prata cada. Eles só deveriam ser capazes de fazer isso se a cidade local tiver sido atormentada por doninhas que se alimentam de lixo e o prefeito estiver pagando para querê-las mortas.
 
+**⠀**
+
 ### Mais procurados
 
 Espécies ou indivíduos específicos podem atrair uma ira especial da autoridade que oferece recompensas. Nestes casos, a autoridade pode pagar entre 1,25 e 1,5 vezes o preço normal pelas recompensas daquela criatura. Por exemplo, uma cidade élfica pode pagar 2 PO por um par de orelhas de goblin, mas 3 PO por um par de orelhas drow, porque embora os goblins sejam um incômodo, eles realmente odeiam os drow. E eles podem pagar 800 PO pela cabeça de uma sacerdotisa drow de lolth, mas 960 PO pela cabeça da matriarca drow, mesmo que sejam estatisticamente idênticas, porque embora eles realmente odeiem sacerdotisas drow, eles realmente odeiam seu líder .
+
+**⠀**
 
 ### Dificuldade de recompensa
 

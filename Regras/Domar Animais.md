@@ -39,6 +39,8 @@ O preço da ração é definido pelo DM, mas abaixo tem uma referência para ani
 
 O personagem também deve cuidar da criatura, mantendo-a em algum lugar seguro. Quanto maior a criatura é ou se torna, mais caro é fornecer-lhe abrigo
 
+**⠀**
+
 ### Alojamento para Animais
 
 |  Tamanho  | Preço/dia |

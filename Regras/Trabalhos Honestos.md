@@ -2,6 +2,8 @@
 
 Quando tudo mais falha, um aventureiro sempre pode recorrer a um trabalho honesto para ganhar a vida. A chance de encontrar um trabalho não qualificado depende do tamanho econômico da localização atual. Nas grandes cidades com economia em crise é muito mais fácil encontrar emprego do que em aldeias pequenas e em dificuldades.
 
+**⠀**
+
 ### Nível de proteção
 
 | Risco | Localização    |
@@ -16,11 +18,15 @@ Para encontrar um emprego, faça testes de perícia Sabedoria (Percepção) e Ca
 
 Se um dos testes de perícia for bem-sucedido, você encontrará algum emprego. Se ambos tiverem sucesso, você encontrou um bom emprego com empregadores acolhedores que pagam moedas justas e pode esperar um tratamento melhor do que o normal.
 
+**⠀**
+
 ### Resolução
 
 Para determinar quanto dinheiro um personagem ganha, o personagem faz um teste de habilidade: Força (Atletismo), Constituição (Atletismo), Inteligência com um conjunto de ferramentas, Carisma (Desempenho) ou Carisma com um instrumento musical.
 
 Consulte a tabela Salários para saber quanto dinheiro é gerado pelo total do cheque.
+
+**⠀**
 
 ### Remunerações
 
@@ -31,9 +37,13 @@ Consulte a tabela Salários para saber quanto dinheiro é gerado pelo total do c
 |   15–20    | Estilo de vida confortável para a semana. Se o trabalho for bom, o empregador pagará 1d4 PO e você ganhará um contato aliado.                    |
 |    21+     | Estilo de vida confortável durante a semana, +1d6 po. Se o trabalho for bom, o empregador pagará 1d6 po extras e você ganhará um contato aliado. |
 
+**⠀**
+
 ### Complicações
 
 O trabalho raramente é preenchido com complicações suficientes para alterar significativamente a vida de um personagem. Há 10% de chance de qualquer emprego e 5% de um bom emprego.
+
+**⠀**
 
 ### Complicações de trabalho
 
@@ -47,4 +57,3 @@ O trabalho raramente é preenchido com complicações suficientes para alterar s
 | 6   | A rede criminosa local tem como alvo o seu negócio para uma extorsão. Cabe ao DM se você for avisado com antecedência ou não.                               |
 | 7   | Você ganha uma reputação de preguiça (injusta ou não, você escolhe), dando-lhe desvantagem em testes feitos para esta atividade de inatividade por 30 dias. |
 | 8   | Seu empregador acha você sexualmente atraente. Se ele é do gênero certo ou errado, depende do DM. Mas é difícil ignorar seus avanços.                       |
-

@@ -1,3 +1,9 @@
+> [!warning] Rolagens
+> 
+> Nenhuma rolagem deve ser feita a menos que seja solicitado!
+
+**⠀**
+
 # Personagem
 
 ## Proficiências por Genialidade
@@ -31,6 +37,18 @@ Essa opção é direcionada a personagens de jogador e a personagens do mestre q
 | 13° — 16° | +5                    | 1d10                 |
 | 17° — 20° | +6                    | 1d12                 |
 
+## Testes Secretos
+
+Testes de Percepção e Testes de Resistir a Morte são feitos secretamente pelo mestre e apenas os resultados são divulgados para os jogadores.
+
+## Sucessos Automáticos
+
+Sucessos Automáticos são exatamente o que parecem: em vez de fazer um jogador rolar para passar no teste, você apenas decide que ele teve sucesso! Como e quando exatamente você decide premiá-los como Mestre é com você, mas a idéia é que eles sejam premiados por uma interpretação realmente impressionante ou por soluções realmente criativas para problemas.
+
+## Talento de Nível 1
+
+Todos os personagens começam com um talento.
+
 **⠀**
 
 # Descanso e Recuperação
@@ -49,57 +67,75 @@ Isso provoca pausas na campanha, requerendo que os jogadores julguem cuidadosame
 
 — Será considerado um descanso longo, um período de 7 descansos curtos sem ter dito nenhum combate, ou outra atividade física pesada.
 
+## Vida e Cura Máximos
+
+Ao subir de nível ou ao rolar uma cura, o resultado é maximizado ao invés de rolar os dados.
+
 **⠀**
 
-# Ações de Combate
-## Desviar e Aparar
+# Combate
 
+## Geral
+
+### Componentes em Feitiços
+Os componentes de um feitiço pode ser substituído por uma carga da bolsa de componentes, com a exceção dos componentes que especificam um preço.
+
+### Acertos Críticos
+O numero de dados rolados em um Acerto Crítico é igual ao numero de dados rolados normalmente, multiplicado pelo multiplicador de dano da arma.
+
+### Iniciativa Flexível
+A iniciativa será rolada a cada rodada. Porem qualquer jogador pode atrasar sua iniciativa para jogar em um momento mais tardio.
+
+### Poções de Ação Bônus
+Beber uma poção custa apenas uma ação bônus.
+
+### Intimidação Bruta
+Testes de Intimidação podem usar o modificador de força no lugar do de carisma.
+
+### Ataque Extra Preparado
+Ataques preparados permitem o uso de um ataque extra.
+
+## Ações de Combate
+
+### Desviar e Aparar
 Você pode usar sua ação bônus e gastar um de seus ataques para preparar uma reação que desvie a força de um ataque feito contra você.
 
 Até o início do seu próximo turno, você pode usar sua reação contra um ataque corpo a corpo inimigo para absorver parte do dano. Role o dado de sua arma, sem aplicar modificadores e proficiência, e diminua o dano do ataque inimigo por esse valor. Se sua rolagem for igual ou maior que o dano causado, o ataque é aparado e você ganha vantagem em seu próximo ataque contra o mesmo inimigo.
 
-## Posição Defensiva
-
+### Posição Defensiva
 Você pode gastar sua ação para manter uma posição defensiva ganhando +4 na CA
 
-## Contra ataque
-
+### Contra ataque
 Você pode usar sua ação bônus e gastar um de seus ataques para preparar uma reação que lhe permita seguir um ataque mal sucedido de uma criatura com um contra-ataque.
 
 Escolha uma criatura. Até seu próximo turno, se a criatura errar um ataque contra você, você poderá usar sua reação para atacar a criatura. Se tiver sucesso, você causa dano adicional igual ao seu modificador de Força ou Destreza (mínimo de 1).
 
 **⠀**
 
-# Ações furtivas
+## Ações furtivas
 
-## Agarrar em Furtividade
-
+### Agarrar em Furtividade
 Quando você entra em furtividade com sucesso, desde que seu teste de furtividade esteja acima da Percepção Passiva de qualquer um que esteja guardando, seu primeiro teste de Agarrar sempre ganha vantagem.
 
-## Agarrar com Habilidade
-
+### Agarrar com Habilidade
 Todos podem agarrar alguém usando a força, mas pessoas bem treinadas podem usar técnicas para agarrar alguém. Ao fazer um teste de agarrar, você pode fazer tanto um teste de Força (Atletismo), quanto um teste de Destreza (Acrobacia).
 
-## Mordaça na boca
-
+### Mordaça na boca
 Depois de agarrar uma criatura com sucesso, você pode tentar amordaçá-la e evitar que ela emita sons.
 
 Use sua ação bônus e faça um teste adicional de Agarrar. Se você tiver sucesso nesta luta, a criatura será amordaçada enquanto a luta persistir. Uma criatura amordaçada não pode lançar feitiços com componentes verbais e sua fala fica abafada e não pode ser compreendida. Quando a criatura não está mais agarrada, ela também não está mais amordaçada.
 
-## Estrangulamento
-
+### Estrangulamento
 Depois de conseguir Agarrar uma criatura pelo pescoço ou outro ponto vital, você pode fazer um teste adicional de Agarrar para tentar sufocá-la até deixá-la inconsciente ou morta.
 
 Tente o teste adicional de Agarrar em desvantagem. Se você tiver sucesso nesta luta, suas mãos se moverão para o ponto vital da criatura e começarão a cortar o fluxo de ar. No próximo turno da criatura, ela deverá fazer um teste para tentar se libertar. Se soltará se tiver sucesso, mas começará a sufocar caso falhe.
 
-## Remoção silenciosa
-
+### Remoção silenciosa
 Ladinos ou qualquer pessoa devidamente treinada ou equipada com uma arma silenciosa pode tentar incapacitar uma criatura surpresa, através da força ou com uma arma. Você pode tentar um ataque com arma usando seu modificador de Destreza ou um teste de Força para quebrar o pescoço. A CD do teste é igual a 10 + os Dados de Vida da criatura.
 
 Se você tiver sucesso, a criatura alvo será executado.
 
-## Golpe de Misericórdia
-
+### Golpe de Misericórdia
 Condições como Paralisado, Inconsciente ou Adormecido, que concedem acertos críticos automáticos contra criaturas humanoides, permitem que você dê um golpe final executando o alvo.
 
 **⠀**
